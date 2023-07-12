@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438298510680",
+    "project_id": "pinjol-tanpa-verifikasi-f3e5f",
+    "storage_bucket": "pinjol-tanpa-verifikasi-f3e5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438298510680:android:3c3c7b54d1cb58eeadd12d",
+        "android_client_info": {
+          "package_name": "com.pinjoltanpaverifikasiwajah.pinjoltanpaktpbicheckingrekeningbankpribadi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438298510680-42omk9p6ea01f5v7e1fpkpinq1l07csq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChunnqqi4LTtr2ots03H_ploFNrqrebYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438298510680-42omk9p6ea01f5v7e1fpkpinq1l07csq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
